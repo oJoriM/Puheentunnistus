@@ -54,6 +54,7 @@ Ohjelma toimii paina-ja-puhu (PTT, *push-to-talk*) -periaatteella.
   ------------------------------- -------------------------------
   `sounddevice`                   Mikrofonin äänisyöte
   `vosk`                          Puheentunnistus
+https://kaldi-asr.org/models/m14  Linkki voskiin (vosk-model-en-us-0.42-gigaspeech)
   `requests`                      API-kutsut OpenWebUI-mallille
   `TTS (Coqui)`                   Tekstin muuttaminen puheeksi
   `pyttsx3`                       TTS-varajärjestelmä
@@ -80,3 +81,4 @@ Avatar reagoi tekstistä tunnistettuihin sanoihin (esim. *happy, sad,
 angry, scared, yes, no*) ja muuttaa kuvan sekä tilatekstin vastaavasti.
 
 ------------------------------------------------------------------------
+
