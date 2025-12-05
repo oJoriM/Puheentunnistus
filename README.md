@@ -1,0 +1,2 @@
+# Puheentunnistus
+Projektin koodi
