@@ -1,0 +1,10 @@
+vosk
+sounddevice
+numpy
+pyttsx3
+pygame
+requests
+TTS
+simpleaudio
+soundfile
+pynput
